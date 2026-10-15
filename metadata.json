@@ -1,0 +1,6 @@
+{
+  "name": "Ammara Studio | AI Real Estate Assistant",
+  "description": "Multi-route agency website showcasing an AI assistant that answers after-hours real estate leads instantly on WhatsApp and the web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
